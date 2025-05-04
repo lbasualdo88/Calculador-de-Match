@@ -7,7 +7,7 @@ Académico<br/>
 <br/>
 
 <strong>Autor del Proyecto:</strong><br/>
-Profesor: Juan Pablo De la Torre Valdez<br/>
+Profesor: Álvaro Chirou<br/>
 <br/>
 
 <strong>Institución:</strong><br/>
@@ -15,7 +15,7 @@ Udemy<br/>
 <br/>
 
 <strong>Curso de donde se aprendió:</strong><br/>
-JavaScript<br/>
+10 Proyectos de JavaScript<br/>
 <br/>
 
 <strong>Categoría del Proyecto:</strong><br/>
